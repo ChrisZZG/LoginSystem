@@ -1,0 +1,12 @@
+com\mycompany\loginform\Persistencia\exceptions\IllegalOrphanException.class
+com\mycompany\loginform\Persistencia\exceptions\NonexistentEntityException.class
+com\mycompany\loginform\IGU\PrincipalScreen$1.class
+com\mycompany\loginform\Persistencia\ControladoraPersistencia.class
+com\mycompany\loginform\Logica\User_.class
+com\mycompany\loginform\Logica\Controladora.class
+com\mycompany\loginform\Persistencia\exceptions\PreexistingEntityException.class
+com\mycompany\loginform\Persistencia\UserJpaController.class
+com\mycompany\loginform\LoginForm.class
+com\mycompany\loginform\IGU\PrincipalScreen.class
+com\mycompany\loginform\Logica\User.class
+com\mycompany\loginform\IGU\PrincipalScreen$2.class
